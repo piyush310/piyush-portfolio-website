@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/piyush-portfolio-website/static/css/main.a7d634cc.css",
-    "main.js": "/piyush-portfolio-website/static/js/main.a6558bf0.js",
+    "main.js": "/piyush-portfolio-website/static/js/main.0c11ab97.js",
     "static/css/148.85bd1e08.chunk.css": "/piyush-portfolio-website/static/css/148.85bd1e08.chunk.css",
     "static/js/148.c9d244b9.chunk.js": "/piyush-portfolio-website/static/js/148.c9d244b9.chunk.js",
     "static/css/191.a4e3e0b2.chunk.css": "/piyush-portfolio-website/static/css/191.a4e3e0b2.chunk.css",
@@ -21,7 +21,7 @@
     "index.html": "/piyush-portfolio-website/index.html",
     "static/media/talksCardBack.svg": "/piyush-portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a7d634cc.css.map": "/piyush-portfolio-website/static/css/main.a7d634cc.css.map",
-    "main.a6558bf0.js.map": "/piyush-portfolio-website/static/js/main.a6558bf0.js.map",
+    "main.0c11ab97.js.map": "/piyush-portfolio-website/static/js/main.0c11ab97.js.map",
     "148.85bd1e08.chunk.css.map": "/piyush-portfolio-website/static/css/148.85bd1e08.chunk.css.map",
     "148.c9d244b9.chunk.js.map": "/piyush-portfolio-website/static/js/148.c9d244b9.chunk.js.map",
     "191.a4e3e0b2.chunk.css.map": "/piyush-portfolio-website/static/css/191.a4e3e0b2.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.a7d634cc.css",
-    "static/js/main.a6558bf0.js"
+    "static/js/main.0c11ab97.js"
   ]
 }
