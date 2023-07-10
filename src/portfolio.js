@@ -23,7 +23,7 @@ const greeting = {
   username: "Piyush Shukla",
   title: "Hi, I'm Piyush",
   subTitle: emoji(
-    "I am Piyush Shukla, a passionate and dedicated professional with 3 years of experience in software development. With a strong academic background and diverse technical skills, I am driven to excel in the field of software development. I thrive in challenging environments, constantly seeking opportunities to enhance my expertise and contribute to impactful projects."
+    "I am Piyush Shukla, a dedicated software development professional with 3 years of experience. With a strong academic background and diverse technical skills, I excel in challenging environments. I constantly seek opportunities to enhance my expertise and contribute to impactful projects. I am driven to deliver high-quality software solutions and thrive on continuous improvement. Committed and passionate, I aim to make a positive impact in the field of software development."
   ),
   resumeLink:
     "https://drive.google.com/file/d/10KVihq0xLC-tRg-YE0Rl-IAkjY3ERKGt/view?usp=sharing", // Set to empty to hide the button
@@ -121,15 +121,6 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
-    // {
-    //   schoolName: "Santa Clara University",
-    //   logo: require("./assets/images/sculogo.png"),
-    //   subHeader: "Master of Science in Computer Science and Engineering",
-    //   duration: "January 2023 - Present",
-    //   descBullets: [
-    //     "Coursework: Design and Analysis of Algorithms, Object Oriented Design and Analysis, Data Visualization, Computer Architecture"
-    //   ]
-    // },
     {
       schoolName: "International Institute of Information Technology, Bhubaneswar",
       logo: require("./assets/images/iiitbh.png"),
