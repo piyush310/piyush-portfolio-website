@@ -272,7 +272,7 @@ const achievementSection = {
     {
       title: "Disaster Prediction System",
       subtitle:
-        " NTT Data CodeForGood Hackathon.",
+        "Top 10 Finalist in NTT Data CodeForGood Hackathon.",
       image: require("./assets/images/ntt.png"),
       imageAlt: "AWP logo"
     }
