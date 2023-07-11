@@ -257,19 +257,6 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/hack.jpeg"),
-      projectName: "Disaster Prediction System",
-      projectDesc: [
-        "Developing an advanced early warning system for floods requires a team with expertise in data analysis, machine learning, and web development, as well as a deep under- standing of the complexities and challenges of predicting natural disasters."
-      ],
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://github.com/piyush310/NTT-CodeForGood-Hackathon"
-        }
-      ]
-    },
-    {
       image: require("./assets/images/red.png"),
       projectName: "Payment-Gateway",
       projectDesc: [
@@ -282,6 +269,20 @@ const bigProjects = {
         }
       ]
     },
+    {
+      image: require("./assets/images/hack.jpeg"),
+      projectName: "Disaster Prediction System",
+      projectDesc: [
+        "Developing an advanced early warning system for floods requires a team with expertise in data analysis, machine learning, and web development, as well as a deep under- standing of the complexities and challenges of predicting natural disasters."
+      ],
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/piyush310/NTT-CodeForGood-Hackathon"
+        }
+      ]
+    },
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
