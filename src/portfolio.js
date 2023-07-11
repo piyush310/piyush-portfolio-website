@@ -241,8 +241,48 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME PERSONAL AND COMPANIES' PROJECTS",
-  projects: [],
+  subtitle: "SOME PERSONAL PROJECTS",
+  projects: [
+    {
+      image: require("./assets/images/imdb.jpeg"),
+      projectName: "IMDB",
+      projectDesc: [
+        "This is a clone of the IMDb (Internet Movie Database) API built using Django and Django REST Framework. It allows users to access movie and TV show information, including details about cast, crew, ratings, and more."
+      ],
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/piyush310/imdb-api"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/hack.jpeg"),
+      projectName: "Disaster Prediction System",
+      projectDesc: [
+        "Developing an advanced early warning system for floods requires a team with expertise in data analysis, machine learning, and web development, as well as a deep under- standing of the complexities and challenges of predicting natural disasters."
+      ],
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/piyush310/NTT-CodeForGood-Hackathon"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/red.png"),
+      projectName: "Payment-Gateway",
+      projectDesc: [
+        "Local business take on heavy losses due to the ongoing pandemic and people shifting to online sellers for day-to-day products. Online payments are the easy way to transact money for these local vendors. Attaching this problem with a social cause will help boost the economy for the small businesses as well as solve for the cause. Red pill and Blue pill is a concept about a choice between the willingness to learn a potentially unsettling or life- changing truth by taking the red pill or remaining in contented ignorance with the blue pill."
+      ],
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/piyush310/Payment-Gateway"
+        }
+      ]
+    },
+  ],
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -350,7 +390,7 @@ const twitterDetails = {
   display: true // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
