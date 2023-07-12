@@ -81,19 +81,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "git",
+      fontAwesomeClassname: "fas fa-code-branch"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "sql-database",
+      skillName: "sql",
       fontAwesomeClassname: "fas fa-database"
     },
     {
