@@ -49,10 +49,10 @@ const skillsSection = {
   ),
   skills: [
     emoji(
-      "⚡ Proficient in developing scalable microservices using Django, FastAPI, Tornado, and Google Cloud, resulting in improved application performance."
+      "⚡ Proficient in developing scalable microservices using Django, FastAPI, and Google Cloud, resulting in improved application performance."
     ),
     emoji(
-      "⚡ Experienced in designing REST APIs with Tornado and Django REST, integrating machine learning tasks and enabling efficient data extraction using Google Cloud services."
+      "⚡ Experienced in designing REST APIs with FastAPI and Django REST Framework, integrating machine learning tasks and enabling efficient data extraction using Google Cloud services."
     ),
     emoji(
       "⚡ Skilled in full-stack web development, delivering user-friendly applications that enhance engagement and satisfaction."
