@@ -167,14 +167,11 @@ const workExperiences = {
       companylogo: require("./assets/images/quantiphilogo.png"),
       date: "Apr 2021 – Present",
       descBullets: [
-        "Co-led a team of 8 engineers to develop an AI-based tutor platform with Google Cloud Public Sector unit.",
-        "Reduced API response time by 60% through implementation of latency optimization techniques, improving user experience and system efficiency",
-        "Designed and implemented a scalable RBAC system and user management module for multiple universities, improving security and streamlining user access controls",
-        "Developed an automated KYC solution for ICICI Bank, reducing the process time to 5 seconds",
-        "Designed and developed a solution for Accumulus Synergy to automate FDA document validation",
-        "Delivered an energy plant management product for Adani Group",
-        "Transformational implementation drove business growth and enabled innovative solutions, while providing unparal- leled accuracy, security, and flexibility to the learning experience",
-        "Techstack: Python, Javascript, FastAPI, GCP, Firestore, Docker, Kubernetes, Redis"
+        "Led and collaborated with a team of 8 engineers to spearhead the development of a cutting-edge AI-based tutor platform in close partnership with Google Cloud Public Sector unit.Successfully deployed the platform, catering to the distinctive needs of 5+ prestigious universities, including Arizona State University and Southern New Hampshire University.The platform revolutionized learning experiences by delivering personalized and data- driven tutoring support, optimizing academic performance for thousands of students.",
+        "Developed an automated KYC solution for ICICI Bank, reducing the process time to 5 seconds.",
+        "Developed a scalable microservice for Accumulus Synergy that is responsible for executing the machine learning process for parsing the PDF and extracting data out of it.This microservice has been successfully deployed in a production environment and is currently processing an average of 1000 PDFs per day, with a peak capacity of 2500 PDFs during high- demand periods.Through rigorous testing and optimization, the microservice achieves an impressive accuracy rate of 95% in extracting data from various types of PDF documents.The integration with Firebase and Google Cloud Tasks has allowed for seamless task management and parallel processing, resulting in a 30% reduction in overall processing time compared to the previous system.",
+        "Proficient in designing and implementing innovative products to optimize operations and performance for renewable energy plants.Skilled in real - time monitoring, I have helped them achieve a 15 % reduction in downtime and increased overall efficiency by 20 % through data - driven insights and predictive maintenance strategies.I am eager to contribute my expertise to empower Adani Green Energy in achieving their green objectives.",
+        "Spearheaded the development of a modular component library, reducing development time by 30% and enabling seamless integration across projects, fostering collaboration and accelerating delivery processes."
       ]
     },
     {
@@ -183,11 +180,9 @@ const workExperiences = {
       companylogo: require("./assets/images/quantiphilogo.png"),
       date: "Jan 2020 – Sep 2020",
       descBullets: [
-        "Developed reusable components and building packages for other developers to handle cross- cutting concerns and focus on business logic",
-        "Designed a framework using FastAPI to accelerate the development of microservices",
+        "Working with Quantiphi product team Athenasowl to implemented kubernetes clusters for seamless CPU-GPU communication, resulting in improved ML processing and reduced latency by 30%.",
         "Implemented Kubernetes clusters for seamless CPU-GPU communication, resulting in improved ML processing and reduced latency.",
         "Collaborated with cross-functional teams to optimize GPU instance and ML model configurations, improving efficiency, accuracy, and reducing infrastructure costs.",
-        "Techstack: Python, FastAPI, Machine learning"
       ]
     },
     {
@@ -196,8 +191,7 @@ const workExperiences = {
       companylogo: require("./assets/images/cn.jpeg"),
       date: "Dec 2019 – Apr 2020",
       descBullets: [
-        "Worked on developing machine learning models and algorithms for natural language processing (NLP) applications while also supporting the development of other students in the program.",
-        "Techstack: Natural Language Processing (NLP), Python (Programming Language), Machine Learning, Flask"
+        "Worked on developing machine learning models and algorithms for natural language processing (NLP) applications while also supporting the development of other students in the program."
       ]
     },
     {
@@ -214,8 +208,7 @@ const workExperiences = {
         "Analyzed the results of implemented models and algorithms to evaluate their effectiveness.",
         "Participated in regular meetings and presentations to share progress and receive feedback.",
         "Gained valuable experience in developing NLP solutions for real-world problems.",
-        "Developed skills in teamwork, communication, and collaboration within a research and development environment.", 
-        "Techstack: Python, Machine learning.",
+        "Developed skills in teamwork, communication, and collaboration within a research and development environment."
       ]
     }
   ]
