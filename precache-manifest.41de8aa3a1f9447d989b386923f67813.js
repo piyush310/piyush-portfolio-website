@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e913b782848d2723841ff194e6ac0069",
+    "revision": "4f4e0d14a0f9e3a6610942a3858945fe",
     "url": "/piyush-portfolio-website/index.html"
   },
   {
-    "revision": "cbac21dc1591271a8671",
+    "revision": "694a1a55ed9997f72f29",
     "url": "/piyush-portfolio-website/static/css/3.ca5647f4.chunk.css"
   },
   {
-    "revision": "ff4394531672d4258fc4",
+    "revision": "c65e842b39ade841c157",
     "url": "/piyush-portfolio-website/static/css/4.12c5d646.chunk.css"
   },
   {
-    "revision": "2872fb0722b1cf33218e",
+    "revision": "97cfb86ecb1ecac92126",
     "url": "/piyush-portfolio-website/static/css/main.1908cc93.chunk.css"
   },
   {
-    "revision": "56a9ebe63781b589c95f",
-    "url": "/piyush-portfolio-website/static/js/2.753ba6f9.chunk.js"
+    "revision": "dff277e618475e261980",
+    "url": "/piyush-portfolio-website/static/js/2.c93412e7.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/piyush-portfolio-website/static/js/2.753ba6f9.chunk.js.LICENSE.txt"
+    "url": "/piyush-portfolio-website/static/js/2.c93412e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbac21dc1591271a8671",
-    "url": "/piyush-portfolio-website/static/js/3.06928a0e.chunk.js"
+    "revision": "694a1a55ed9997f72f29",
+    "url": "/piyush-portfolio-website/static/js/3.59045386.chunk.js"
   },
   {
-    "revision": "ff4394531672d4258fc4",
-    "url": "/piyush-portfolio-website/static/js/4.d87367ab.chunk.js"
+    "revision": "c65e842b39ade841c157",
+    "url": "/piyush-portfolio-website/static/js/4.17e13112.chunk.js"
   },
   {
-    "revision": "2872fb0722b1cf33218e",
-    "url": "/piyush-portfolio-website/static/js/main.db70bd30.chunk.js"
+    "revision": "97cfb86ecb1ecac92126",
+    "url": "/piyush-portfolio-website/static/js/main.1e0890e7.chunk.js"
   },
   {
-    "revision": "d3041715986ab568d87d",
-    "url": "/piyush-portfolio-website/static/js/runtime-main.ca1e1b71.js"
+    "revision": "8ad0711c7625aa64f771",
+    "url": "/piyush-portfolio-website/static/js/runtime-main.0814cf70.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
