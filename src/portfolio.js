@@ -165,33 +165,16 @@ const workExperiences = {
       role: "Senior Software Developer",
       company: "Quantiphi",
       companylogo: require("./assets/images/quantiphilogo.png"),
-      date: "Apr 2021 – Present",
+      date: "Jul 2020 – Aug 2023",
       descBullets: [
         "Led and collaborated with a team of 8 engineers to spearhead the development of a cutting-edge AI-based tutor platform in close partnership with Google Cloud Public Sector unit.Successfully deployed the platform, catering to the distinctive needs of 5+ prestigious universities, including Arizona State University and Southern New Hampshire University.The platform revolutionized learning experiences by delivering personalized and data- driven tutoring support, optimizing academic performance for thousands of students.",
         "Developed an automated KYC solution for ICICI Bank, reducing the process time to 5 seconds.",
         "Developed a scalable microservice for Accumulus Synergy that is responsible for executing the machine learning process for parsing the PDF and extracting data out of it.This microservice has been successfully deployed in a production environment and is currently processing an average of 1000 PDFs per day, with a peak capacity of 2500 PDFs during high- demand periods.Through rigorous testing and optimization, the microservice achieves an impressive accuracy rate of 95% in extracting data from various types of PDF documents.The integration with Firebase and Google Cloud Tasks has allowed for seamless task management and parallel processing, resulting in a 30% reduction in overall processing time compared to the previous system.",
         "Proficient in designing and implementing innovative products to optimize operations and performance for renewable energy plants.Skilled in real - time monitoring, I have helped them achieve a 15 % reduction in downtime and increased overall efficiency by 20 % through data - driven insights and predictive maintenance strategies.I am eager to contribute my expertise to empower Adani Green Energy in achieving their green objectives.",
-        "Spearheaded the development of a modular component library, reducing development time by 30% and enabling seamless integration across projects, fostering collaboration and accelerating delivery processes."
-      ]
-    },
-    {
-      role: "Software Developer Intern",
-      company: "Quantiphi",
-      companylogo: require("./assets/images/quantiphilogo.png"),
-      date: "Jan 2020 – Sep 2020",
-      descBullets: [
+        "Spearheaded the development of a modular component library, reducing development time by 30% and enabling seamless integration across projects, fostering collaboration and accelerating delivery processes.",
         "Working with Quantiphi product team Athenasowl to implemented kubernetes clusters for seamless CPU-GPU communication, resulting in improved ML processing and reduced latency by 30%.",
         "Implemented Kubernetes clusters for seamless CPU-GPU communication, resulting in improved ML processing and reduced latency.",
         "Collaborated with cross-functional teams to optimize GPU instance and ML model configurations, improving efficiency, accuracy, and reducing infrastructure costs.",
-      ]
-    },
-    {
-      role: "Software Developer Intern",
-      company: "Coding Ninjas",
-      companylogo: require("./assets/images/cn.jpeg"),
-      date: "Dec 2019 – Apr 2020",
-      descBullets: [
-        "Worked on developing machine learning models and algorithms for natural language processing (NLP) applications while also supporting the development of other students in the program."
       ]
     },
     {
@@ -291,7 +274,7 @@ const achievementSection = {
       title: "Certificate of Recognition",
       subtitle:
         "Receive Certificate of Recognition on behalf of Google for the Adani Project",
-      image: require("./assets/images/recog.jpeg"),
+      image: require("./assets/images/Adani_2012_logo.png"),
       imageAlt: "Google Assistant Action Logo"
     },
 
@@ -299,7 +282,7 @@ const achievementSection = {
       title: "Disaster Prediction System",
       subtitle:
         "Top 10 Finalist in NTT Data CodeForGood Hackathon.",
-      image: require("./assets/images/ntt.png"),
+      image: require("./assets/images/NTT_Data-Logo.wine.png"),
       imageAlt: "AWP logo"
     }
   ],
