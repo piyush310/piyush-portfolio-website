@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/piyush-portfolio-website/static/css/main.1908cc93.chunk.css",
-    "main.js": "/piyush-portfolio-website/static/js/main.1e0890e7.chunk.js",
-    "main.js.map": "/piyush-portfolio-website/static/js/main.1e0890e7.chunk.js.map",
+    "main.js": "/piyush-portfolio-website/static/js/main.727256bf.chunk.js",
+    "main.js.map": "/piyush-portfolio-website/static/js/main.727256bf.chunk.js.map",
     "runtime-main.js": "/piyush-portfolio-website/static/js/runtime-main.0814cf70.js",
     "runtime-main.js.map": "/piyush-portfolio-website/static/js/runtime-main.0814cf70.js.map",
     "static/js/2.c93412e7.chunk.js": "/piyush-portfolio-website/static/js/2.c93412e7.chunk.js",
@@ -14,22 +14,23 @@
     "static/js/4.17e13112.chunk.js": "/piyush-portfolio-website/static/js/4.17e13112.chunk.js",
     "static/js/4.17e13112.chunk.js.map": "/piyush-portfolio-website/static/js/4.17e13112.chunk.js.map",
     "index.html": "/piyush-portfolio-website/index.html",
-    "precache-manifest.41de8aa3a1f9447d989b386923f67813.js": "/piyush-portfolio-website/precache-manifest.41de8aa3a1f9447d989b386923f67813.js",
+    "precache-manifest.62533b68e2c4dd813b28fe71b5e9a8c4.js": "/piyush-portfolio-website/precache-manifest.62533b68e2c4dd813b28fe71b5e9a8c4.js",
     "service-worker.js": "/piyush-portfolio-website/service-worker.js",
     "static/css/3.ca5647f4.chunk.css.map": "/piyush-portfolio-website/static/css/3.ca5647f4.chunk.css.map",
     "static/css/4.12c5d646.chunk.css.map": "/piyush-portfolio-website/static/css/4.12c5d646.chunk.css.map",
     "static/css/main.1908cc93.chunk.css.map": "/piyush-portfolio-website/static/css/main.1908cc93.chunk.css.map",
     "static/js/2.c93412e7.chunk.js.LICENSE.txt": "/piyush-portfolio-website/static/js/2.c93412e7.chunk.js.LICENSE.txt",
+    "static/media/Adani_2012_logo.png": "/piyush-portfolio-website/static/media/Adani_2012_logo.e2885de4.png",
     "static/media/index.css": "/piyush-portfolio-website/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/NTT_Data-Logo.wine.png": "/piyush-portfolio-website/static/media/NTT_Data-Logo.wine.a852cbb3.png",
     "static/media/contactMailDark.svg": "/piyush-portfolio-website/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/piyush-portfolio-website/static/media/developerActivity.59389695.svg",
     "static/media/gcp.png": "/piyush-portfolio-website/static/media/gcp.b7ae5c02.png",
-    "static/media/hack.jpeg": "/piyush-portfolio-website/static/media/hack.31c19236.jpeg",
+    "static/media/hack.jpeg": "/piyush-portfolio-website/static/media/hack.4565ee9a.jpeg",
     "static/media/iiitbh.png": "/piyush-portfolio-website/static/media/iiitbh.f660ed23.png",
     "static/media/iit.png": "/piyush-portfolio-website/static/media/iit.2ff99bcb.png",
     "static/media/manOnTable.svg": "/piyush-portfolio-website/static/media/manOnTable.52be3144.svg",
     "static/media/quantiphilogo.png": "/piyush-portfolio-website/static/media/quantiphilogo.0e2d23b4.png",
-    "static/media/recog.jpeg": "/piyush-portfolio-website/static/media/recog.46233b00.jpeg",
     "static/media/red.png": "/piyush-portfolio-website/static/media/red.3c3ce1b1.png",
     "static/media/skill.svg": "/piyush-portfolio-website/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/piyush-portfolio-website/static/media/talksCardBack.13780cdd.svg",
@@ -39,6 +40,6 @@
     "static/js/runtime-main.0814cf70.js",
     "static/js/2.c93412e7.chunk.js",
     "static/css/main.1908cc93.chunk.css",
-    "static/js/main.1e0890e7.chunk.js"
+    "static/js/main.727256bf.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f4e0d14a0f9e3a6610942a3858945fe",
+    "revision": "ae81094b21c64b40ca3c3863b13fe96e",
     "url": "/piyush-portfolio-website/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piyush-portfolio-website/static/css/4.12c5d646.chunk.css"
   },
   {
-    "revision": "97cfb86ecb1ecac92126",
+    "revision": "7b16c4251bfc5391d637",
     "url": "/piyush-portfolio-website/static/css/main.1908cc93.chunk.css"
   },
   {
@@ -32,12 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piyush-portfolio-website/static/js/4.17e13112.chunk.js"
   },
   {
-    "revision": "97cfb86ecb1ecac92126",
-    "url": "/piyush-portfolio-website/static/js/main.1e0890e7.chunk.js"
+    "revision": "7b16c4251bfc5391d637",
+    "url": "/piyush-portfolio-website/static/js/main.727256bf.chunk.js"
   },
   {
     "revision": "8ad0711c7625aa64f771",
     "url": "/piyush-portfolio-website/static/js/runtime-main.0814cf70.js"
+  },
+  {
+    "revision": "e2885de46de0828cd9cb49221fadb005",
+    "url": "/piyush-portfolio-website/static/media/Adani_2012_logo.e2885de4.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/piyush-portfolio-website/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "a852cbb3cc2c7bb1061b0c12d8dde322",
+    "url": "/piyush-portfolio-website/static/media/NTT_Data-Logo.wine.a852cbb3.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -60,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piyush-portfolio-website/static/media/gcp.b7ae5c02.png"
   },
   {
-    "revision": "31c1923651927c6b98d184f1517858c2",
-    "url": "/piyush-portfolio-website/static/media/hack.31c19236.jpeg"
+    "revision": "4565ee9a2bc8de9998acc8044d5e8b19",
+    "url": "/piyush-portfolio-website/static/media/hack.4565ee9a.jpeg"
   },
   {
     "revision": "f660ed232cc3bd3c44fe7375eeb01af3",
@@ -78,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e2d23b475a04ed8e5e2000f7f445ca4",
     "url": "/piyush-portfolio-website/static/media/quantiphilogo.0e2d23b4.png"
-  },
-  {
-    "revision": "46233b00527fab184fd837dca42592c9",
-    "url": "/piyush-portfolio-website/static/media/recog.46233b00.jpeg"
   },
   {
     "revision": "3c3ce1b1ab6691f1bf7f952674fbcb66",
