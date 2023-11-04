@@ -26,7 +26,7 @@ const greeting = {
     "A dedicated software development professional with 3 years of experience. With a strong academic background and diverse technical skills, I excel in challenging environments. I constantly seek opportunities to enhance my expertise and contribute to impactful projects. I am driven to deliver high-quality software solutions and thrive on continuous improvement. Committed and passionate, I aim to make a positive impact in the field of software development."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Ij87kkYJYR8bqdas2tNESwtFZluhfr65/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/11NMe_cQ4I77WM8xrlkXGMMQe0T9B2XsR/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
